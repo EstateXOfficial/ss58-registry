@@ -1246,7 +1246,7 @@
     {
       "prefix": 11096,
       "network": "esx-global-identity",
-      "displayName": "ESX Global Identity Chain",
+      "displayName": "ESX Global Identity",
       "symbols": ["ESXID"],
       "decimals": [18],
       "standardAccount": "*25519",
@@ -1390,7 +1390,7 @@
     {
       "prefix": 13144,
       "network": "esx-global-unity",
-      "displayName": "ESX Global Unity Chain",
+      "displayName": "ESX Global Unity",
       "symbols": ["ESX"],
       "decimals": [18],
       "standardAccount": "*25519",
